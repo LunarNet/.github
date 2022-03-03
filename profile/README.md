@@ -13,3 +13,9 @@ That's why all of our applications that can be open-source, are open-source. Fro
 
 ### 🖥️ What we use to build our systems
 We're all passionate HTML, C#, Javascript, Python developers that love to make moderen/aesthtic projects.
+
+---
+
+### Contact
+- Email Support contact: Support@lunarnetwork.com
+- Discord Server support contact: https://discord.gg/k2vJM5NvXa

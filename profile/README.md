@@ -18,4 +18,4 @@ We're all passionate HTML, C#, Javascript, Python developers that love to make m
 
 ### Contact
 - Email Support contact: Support@saturnnetwork.com
-- Discord Server support contact: https://discord.gg/k2vJM5NvXa
+- Discord Server support contact: https://discord.gg/6RawDkyq5D

@@ -12,8 +12,9 @@ That's why all of our applications that can be open-source, are open-source. Fro
 - Most all of our projects are open source, including our website src, our vpn client ect.
 - More information about us can be found at our [wiki](https://github.com/SaturnNetwork/Saturn-Network/wiki)
 
-### 🖥️ What we use to build our systems
+### 🖥️ What we use to build our systems & what we build
 We're all passionate HTML, C#, Javascript, Python developers that love to make moderen/aesthtic projects.
+We at Saturn Network build all types of stuff in many different languages, our projects really can go all over the place.
 
 ---
 

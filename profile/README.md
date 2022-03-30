@@ -19,5 +19,5 @@ We at Saturn Network build all types of stuff in many different languages, our p
 ---
 
 ### Contact
-- Email Support contact: Support@saturnnetwork.com
+- Email Support contact: support@saturnsec.net
 - Discord Server support contact: https://discord.gg/6RawDkyq5D
